@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 scores = [2, 3, 8, 6, 2, 4, 0, 16, 2, 2,
         12, 5, 5, 16, 10, 11, 1, 9, 15, 5, 
         12, 7, 1, 12, 17, 24, 0, 7, 17, 20,
-        10, 8]
+        10, 8, 10, 9]
 avg = round(sum(scores)/len(scores),2)
 cum_avg = []
 sum_ = 0
