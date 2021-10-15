@@ -40,7 +40,7 @@ Donald
 Dorothy
 Gloria
 Georgia
-Pamela
+Pamela = Palm tree
 Jack
 Barbara
 John
@@ -54,7 +54,7 @@ Stephen
 Wesley
 Julia
 Sybil
-Diane
+Diane = diamond
 Joan
 Earl
 Jim
@@ -96,7 +96,7 @@ Oscar
 Julie
 Joann
 Dwight
-Alice
+Alice = Alice in wonderland
 Myra
 Patricia
 Amanda
@@ -131,3 +131,29 @@ Lynne = Lioness
 Marie = marine navy
 Rebecca = Rebecca black
 Ted = Teddy bear
+Anne 
+Neil = Neil Degrasse Tyson
+Paul = Paulachan vijayagiri
+Joyce = Joi sir
+Lottie = Lottery
+Grace = Avatar woman
+Jeff = Jeff goldbloom
+Debbie = Debyshire goat
+Marjorie = Marijuana
+liza = lizard
+Jackie = nunchuks
+Maureen = 
+Jean =  
+Charles = wheelchair
+Frances
+Alexis
+Thomas
+Barbara
+Dean
+Miguel
+James
+Geoffrey
+Ana
+Christina
+Gary
+Janice
