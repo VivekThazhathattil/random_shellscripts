@@ -1,0 +1,2 @@
+1. score=0 correct=38 ranking=4662 (never guess cards; 0 score awarded :( )
+2. score=0 correct=28 ranking=4662 (recall too slow)
