@@ -3,3 +3,10 @@
 
 18-10-21
 2. 10:44 pm - correct=38 wrong=2 timeTaken=44.73s (45 bpm)
+
+Speed numbers (5 min)
+___________________________
+
+S no.			Time													Correct		Wrong
+
+1.				10-11-21 18:33								88				4	

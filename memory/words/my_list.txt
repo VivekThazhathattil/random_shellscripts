@@ -8,7 +8,7 @@ achieve
 achievement
 acquaintance
 active
-activity
+activity - Act popcorn and vattal mulak
 adapt
 adhere
 adjacent
@@ -26,7 +26,7 @@ aid
 air
 algebra
 alias
-alike
+alike - two muslims going alaikkum salam
 alive
 allergic
 allergy
@@ -306,6 +306,7 @@ element
 elevator
 eligible
 eliminate
+emperor - Emperor Nero
 empire
 empirical
 employee
@@ -353,7 +354,7 @@ finger
 fizzy
 flaw
 flee
-flight
+flight - Airplane flying
 flush
 font
 foot
@@ -388,7 +389,7 @@ grain
 grammar
 grandchild
 grandmother
-grape
+grape - a blue grape
 grateful
 gravity
 grow
@@ -581,7 +582,7 @@ passion
 past
 patience
 pea
-pebble
+pebble - small pebble (aquarium type colored)
 pendulum
 perfection
 permission
@@ -773,7 +774,7 @@ survival
 swamp
 sweet
 swordfish
-sympathetic
+sympathetic - Simba on Kinetic scooter
 syndrome
 syntactic
 syntax
@@ -816,7 +817,7 @@ tower
 toy
 tragic
 train
-trifle
+trifle - Rifle trickling while melting
 troop
 trunk
 trust
@@ -878,3 +879,45 @@ wrath
 wrestler
 year
 youth
+obey - Obey hat
+passport - passport
+arise - A huge single piece of rice
+together - two people gathering (huddling) together
+trilogy - Logic (Navadarsh) holding a trident
+giraffe - giraffe
+collapse - a building's scaffold breaking apart
+urgent - someone packing up his backpack very fast
+recruitment - terrorist group recruiting from a gathering of people
+bang - comical bang with words
+drunken - Ken (barbie boyfriend / cinnamon ken) drinking beer
+spiral - artofmemory spiral icon
+decimal - A string of decimal number (with fractional part)
+practical - practical exam (12th final)
+intention - someone in tension (hands rubbing forehead, visibly upset)
+death - someone in his coffin, with cotton in his nose
+him - A bee humming
+launch - A missle launch
+rash - Person scratching his rash on hand
+bad - Weird Al Yankovic fat in I'm fat parody song
+flag - indian flag
+leather - leather jacket and shoes
+pelican - pelican
+collate - colgate paste
+craft - Crab rowing a raft
+apple - apple
+visitor - Visa card torn apart
+farmer - farmer with axe on his shoulder
+helicopter - helicopter
+platform - a stage
+unhelpful - 
+deserve -  serving tennis in desert
+honesty - 
+brick - brick
+yak - yak
+alliance - a lion dancing
+letter - letter
+imminent - immini balya oral jayasurya in a tent
+magnitude - magnus being rude
+sensation - sensei (shifu from kungfupanda)
+rabid - a rabbit bidding
+minimal - minichechi and malechi
