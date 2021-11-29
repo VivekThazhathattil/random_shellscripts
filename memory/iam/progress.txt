@@ -24,7 +24,8 @@ ___________________________
 3.				20-11-21 19:47								7							  23				0						3685
 4.				20-11-21 20:56								1								28				0						4590 
 5.				24-11-21 18:27								0								24				1						-								52 cards viewed
-6.
+6.				25-11-21 00:29								5								25				4						>3685
+7.				25-11-21 00:42								3								28				2						>3685						52 cards viewed
 
 * 5-Minute Words
 ___________________________
@@ -43,3 +44,47 @@ ___________________________
 1.				12-11-21 10:40								135							155				10					505
 2.				18-11-21 13:00								161							192				22					360
 
+
+* [ML] 1 min cards
+___________________________
+1.				25-11-21 03:22								12							12				0						3140
+2.				25-11-21 03:28								0								3					12					-								mistrust locii (15 viewed)
+3.				25-11-21 03:36								0								10				5						-								mistrust locii
+4.				25-11-21 10:57								15							15				0						2817						
+5.				25-11-21 11:12								0								9					7						-								21 viewed
+6.				25-11-21 12:29								18							18				0						2563						new record!! But I'm unsure about how much I can go.
+																																															Can I reach <30s some day in the future? Or am I not good 
+																																															enough? Self-doubt is a bitch.
+7.				25-11-21 18:45								0								11				8						-
+8.				25-11-21 18:52								8								14				1						3685						mis-recalled the second card.
+9.				25-11-21 19:01								0								17				2						-								viewed 19; switched two objects: nike and door knob (Magnus 
+																																															condescending a door knob and lady gaga barking at nike shoes
+																																															Maybe I should imagine the knob along with its door to avoid
+																																															future confusion)
+10.				25-11-21 20:15								0								7					15					-								forgot a locii. I brought this on myself. I knew it would 
+																																															happen someday. This memory palace is very new and I'm still 
+																																															getting the hang of it. That's my excuse. Good news is that 
+																																															I viewed 24 cards (although the last six cards were a quick 
+																																															grab; not saying that its a bad thing)
+11.				25-11-21 20:54								0								17				6						-								Mistook Rihanna for Taylor Swift. Use clothing to differentiate
+																																															in the future. Also the grab was shaky.
+12.				25-11-21 23:38								0								17				4						-
+13.				25-11-21 23:45								0								19				2						-								miscoded action near the end b/c I panicked. 19 correct is an
+																																															achievement though.
+14.				25-11-21 23:59								0								9					1						_								didn't get enough time to prepare memory palace. Naturally I 
+																																															panicked.
+15.				26-11-21 17:52								0								18				0						-								I looked at 20 cards. I wasn't sure about the order in which 
+																																															the images appeared. But luckily nothing went wrong.
+16.				28-11-21 01:34								0								16				2						-								misencoded 2 cards
+17.				28-11-21 04:01								0								8					6						_								need to revise all images before going again.
+18.				28-11-21 14:49								
+
+* Cards preparation using 52Cards
+___________________________________
+
+				Date & attempt no with type.							time taken						metronome bpm
+1.			28-11-21 (1P)															2:00 mins							40
+2.			28-11-21 (2P)															2:22 mins							41
+3.			28-11-21 (3P)															1:55 mins							45
+4.			28-11-21 (4A)															2:21 mins							45
+5.			28-11-21 (5O)															1:59 mins							45
