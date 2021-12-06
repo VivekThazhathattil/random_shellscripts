@@ -11,7 +11,9 @@ ___________________________
 ___________________________
 1.				10-11-21 19:09								11							11				-						1619
 2.				18-11-21 11:59								24							24				5						416
-
+3.				06-12-21 01:09								13							13				3						1355						Maybe I should find easy 1-2 syllable names and memorize them
+																																															first.
+4.				06-12-21 01:26								27							27				2						298							Going through the list multiple times, picking easy first names																																															 and last names is the current best way forward.
 
 * 5-Minute Dates
 ___________________________
@@ -26,6 +28,7 @@ ___________________________
 5.				24-11-21 18:27								0								24				1						-								52 cards viewed
 6.				25-11-21 00:29								5								25				4						>3685
 7.				25-11-21 00:42								3								28				2						>3685						52 cards viewed
+8.				04-12-21 22:07								0								33				1						-								viewed all 52 cards in 170s. definitely my best so far.
 
 * 5-Minute Words
 ___________________________
@@ -84,17 +87,60 @@ ___________________________
 21.				30-11-21 22:10								-								20				1						-								ML match. Misread a card.
 22.				30-11-21 22:20								-								20				1						-								ML match. Mistook action mop for action rake.
 23.				30-11-21 23:10								-								17				4						-								ML match. Took too long to identify Prithviraj card.
-24.				30-11-21 23:20								21							21				0					  2338						ML match. Leveled up! Level 6!! Finally!
+24.				30-11-21 23:20								21							21				0					  2338						ML match. Leveled up! Level 6!! Finally! That means only three 																																															 trials per day :(
 25.				01-12-21 21:11								0								17				7						-								IAM. Switched two locii images (which means 6 mistakes!!). 
-																																															misencoded 1 image (nom with tame)
-26.				01-12-21 21:41								0								18				1						_								IAM. Got one wrong. I mistook 10C for 10S. Tried metronome at 
-																																															12 bpm. Should try with 65 bpm (per 1 card, not per 3cards)
-27.				01-12-21 21:50								0								18				1						_								IAM 65 bpm. Might have fumbled because of metronome pressure.
-28.				01-12-21 22:50								0								18				6						_								Swapped two locii. Good thing is that I managed to look at 
-																																															25 cards this time.
-29.				01-12-21 23:20								0								1					4						_								I completely flopped. was a bit unprepared. Tragically blanked 																																															 out. 
-30.				01-12-21 23:40								0								6					11					_								Shifted locii
-31.				01-12-21 23:50								0								23				3						_								ML match. New PB! Confused action roar with ruff.
+																																							- 							misencoded 1 image (nom with tame)
+26.				01-12-21 21:41								0								18				1						-								IAM. Got one wrong. I mistook 10C for 10S. Tried metronome at 
+																																							- 							12 bpm. Should try with 65 bpm (per 1 card, not per 3cards)
+27.				01-12-21 21:50								0								18				1						-								IAM 65 bpm. Might have fumbled because of metronome pressure.
+28.				01-12-21 22:50								0								18				6						-								Swapped two locii. Good thing is that I managed to look at 
+																																							- 							25 cards this time.
+29.				01-12-21 23:20								0								1					4						-								I completely flopped. was a bit unprepared. Tragically blanked 																																															 out. 
+30.				01-12-21 23:40								0								6					11					-								Shifted locii. Got everything incorrect. Disappointed!. No more
+																																															metronomes.
+31.				01-12-21 23:50								0								23				3						-								ML match. New PB! Confused action roar with ruff.
+32.				01-12-21 23:55								0								20				6						-								Back to old ways I guess.
+33.				02-12-21 18:53								0								20        1						-								IAM. Bad last grab. Forgot rail object in recall session.
+34.				02-12-21 19:02								12							23				1						3140						Messed up the very first card. Viewed 24 in total. For some 
+																																															reason, I misremembered Meowth in place of Michael Jackson. 
+																																															That's so bizarre. Anyway, nice to be back on the scoreboard
+																																															atleast.
+35.				02-12-21 21:53								13							24				1						3049						New PB! 24 cards correct! Viewed 25 cards. Got 1 wrong because 
+																																															I didn't create any visualization for the object. I could only
+																																															see Kasparov jumping on to something, but I didn't imagine him
+																																															jumping on to a rope.
+36.				03-12-21 10:16								0								7					11					-								Shifting error. Also forgot most cards.
+37.				03-12-21 10:31								0								20				2						_								Viewed 24. Lets try to grab just three next time, that too in 
+																																															the last 5 seconds or so.
+38.				03-12-21 10:40								21							21				0						2338						Lets not grab anymore. I think the need to grab makes me slower
+																																															and less accurate. Sure the score might not be great, but I'll																																															 gradually get there.
+39.				04-12-21 19:23								0								24				1						-								Picked wrong card. That was the mistake. Viewed 27 cards! That
+																																															was the highlight for this match! I can sense that slow 
+																																															progress happening. Also blabbering a lot here kinda hinders 
+																																															with my training. Has to tone down a bit.
+40.				04-12-21 21:46								0								20				6						-								ML practice. Gotta move faster.	
+41.				05-12-21 09:54								0								25				2						-								PB I guess.. Misencoded 1 card. Viewed 27 cards. I guess I'll 
+																																															attempt ML once I can consistently hit 26 cards in IAM.	
+42.				05-12-21 20:39								14							26				1					  2945						Nooooo! I misencoded one card, otherwise it would have been all 																																														 correct! Broke PBs back to back! I'm gonna practice today until
+																																															I get to 30 cards. Since today's 4hrs exam is over, I have 
+																																															plenty of time to get it done.
+43.				05-12-21 21:01								0								5					17					-								shifting error. was slow as well. How far away is 30?
+44.				05-12-21 22:13								0								20				7						-								swapped two + 1 bad grab. i didn't really attach the two 
+																																															images to locii well enough.
+45.				05-12-21 22:21								0								25				2						-								wow. For the first time in my training session, I have swapped																																															 object and action. That's an error that I didn't ever think 
+																																															would happen. I had a weird sense about those cards when I was
+																																															recalling them. Johannes Mallow took ~80 attempts to reach 
+																																															under 1 minute using PAO. So, lets say, considering generous
+																																															margins, I'd take around 200 attempts to reach below 1 min. 
+																																															Lets get to 1 min before 200 attempts!
+46.				05-12-21 22:42								0								19				1						-								At this point, I'm not at all clearly seeing images in my loci.																																															 It has become a guessing game. I need to quickly review all the																																															images once the time is up. Just to reinforce the images back 
+																																															to memory. I'll stop here for today. I should spread the 
+																																															training throughout the day rather than doing it all together. 																																															 That would strengthen my speed I reckon.
+47.				06-12-21 18:41								0								21				2						-								I was making a memory palace just before this. When I tried to
+																																															place images in my trusted locii, the locii started merging 
+																																															with the locii from the newest palace. It was intriguing, but
+																																															it also slowed me down and messed me up for a little while.
+48.				
 
 * Cards preparation using 52Cards
 ___________________________________
