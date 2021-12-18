@@ -4,7 +4,8 @@ ________________________________________________________________________________
 * Speed numbers (5 min)
 ___________________________
 1.				10-11-21 18:33								40							88				4						2322
-1.				11-11-21 18:33								40							62				4						2322
+2.				11-11-21 18:33								40							62				4						2322
+3.				08-12-21 22:03								8								69				7						3684	
 
 
 * 5-Minute Names and Faces
@@ -140,7 +141,31 @@ ___________________________
 																																															place images in my trusted locii, the locii started merging 
 																																															with the locii from the newest palace. It was intriguing, but
 																																															it also slowed me down and messed me up for a little while.
-48.				
+48.				07-12-21 20:06								0								24				2						-
+49.				07-12-21 20:15								0								23				2						-								Misclicked card - 1 error. Again mop with rake. Use stickless 																																															 mop next time.
+50.				07-12-21 20:46								0								21				3						-
+51.				09-12-21 08:40								0								24				2						-								ML PB. I am in the middle of my final exam prep. So I may not 
+																																															be able to put in the most effort.
+52.				09-12-21 16:40								0								24				2						- 							ML PB again.
+
+53. 14-12-21 06:44
+
+Okay. So I didn't practice for a while due to my exams and I tried out ML Cards to see whether my performance has dipped or not. Sure enough, it has dropped. I could only manage to memorize 19 cards. So what I'll do is to try out a new strategy. I don't know how effective it would be, but I'm pretty sure it is only going to improve my speed in Cards. Okay, so what I do now is to try and do speed drills separately for P, O, A, POA to find stalling points for each case. By stalling point, I mean the point where my time can no longer be improved. I'll define it as a series of 5 consecutive times where the difference between any two adjacent times is +- 2 seconds. That will correspond to my peak speed. When I realize this stalling point, I will do 10 more speed drills while still trying my best to break out of that stalling point. Then I'll attempt the 1 min POA and see whether I could make any improvement. It's gonna take a lot of time in the beginning. But I hope to reduce it as I become faster and faster. I have plenty of time in my hands, since exams are over and I'm having a break for couple of weeks. One thing that might happen is that after reaching the stalling point, my performance may decrease in consequent trials, due to something like fatigue. In that case, I will still do the 10 trials, no matter what.
+
+P: 
+1. 3 min 4 sec
+2. 2 min 48 sec
+3. 2 min 22 sec
+4. 2 min 16 sec
+5. 2 min 4 sec
+6. 1 min 55 sec
+7. 
+
+O:
+1. 1 min 35 sec
+
+PAO:
+1. 2 min 23 sec
 
 * Cards preparation using 52Cards
 ___________________________________
