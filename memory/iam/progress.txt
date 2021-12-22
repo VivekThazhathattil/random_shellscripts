@@ -148,7 +148,7 @@ ___________________________
 																																															be able to put in the most effort.
 52.				09-12-21 16:40								0								24				2						- 							ML PB again.
 
-53. 14-12-21 06:44
+53. 			14-12-21 06:44
 
 Okay. So I didn't practice for a while due to my exams and I tried out ML Cards to see whether my performance has dipped or not. Sure enough, it has dropped. I could only manage to memorize 19 cards. So what I'll do is to try out a new strategy. I don't know how effective it would be, but I'm pretty sure it is only going to improve my speed in Cards. Okay, so what I do now is to try and do speed drills separately for P, O, A, POA to find stalling points for each case. By stalling point, I mean the point where my time can no longer be improved. I'll define it as a series of 5 consecutive times where the difference between any two adjacent times is +- 2 seconds. That will correspond to my peak speed. When I realize this stalling point, I will do 10 more speed drills while still trying my best to break out of that stalling point. Then I'll attempt the 1 min POA and see whether I could make any improvement. It's gonna take a lot of time in the beginning. But I hope to reduce it as I become faster and faster. I have plenty of time in my hands, since exams are over and I'm having a break for couple of weeks. One thing that might happen is that after reaching the stalling point, my performance may decrease in consequent trials, due to something like fatigue. In that case, I will still do the 10 trials, no matter what.
 
@@ -166,6 +166,25 @@ O:
 
 PAO:
 1. 2 min 23 sec
+
+This plan was ambitious. But I have a life and can't devote all my time for memorizing cards. So failure yet again. That's the end of it.
+
+54.				18-12-21 21:43							26							26					0							2059					Practice in ML. Cleared the level somehow. I just grabbed the
+																																															last five cards in panic. For some reason, Last 8 cards were
+																																															fuzzy, but I got them all correct! I don't care how sweaty I
+																																															was! Finally Reached Level 7! Woo! Coincidentally I also
+																																															broke my previous record in Spoken numbers 60 -> 65. Maybe 
+																																															today isn't a bad day after all.
+55.				19-12-21 23:31							24							24					0							2163					I don't know how I can level up. I'm too slow for the next 
+																																															level (32 cards). Before the next trial, I'll make sure 
+																																															that I can get under 1:30 min for all P, A, O using speed 
+																																															drills. Then I'll resume practising again. I'll note the 
+																																															speed drill times from now on until I hit the target. The
+																																															reason why I'll do these drills is because if I can't get
+																																															52 P,A,O times under 90s, then I'll not be able to do it for
+																																															PAO together.
+Speed drill times (80 bpm):
+56.				19-12-21 P: 1:41, A: 2:28, O: 1:18
 
 * Cards preparation using 52Cards
 ___________________________________
@@ -193,3 +212,9 @@ ___________________________________
 20.			30-11-21 (4O)															1:26												65							PB
 21.			30-11-21 (5O)															1:17												65							PB
 22.			30-11-21 (2A)															2:06												65
+
+* Reading books
+___________________________________
+
+																									# pages
+1.			19-12-21 18:32														
